@@ -35,7 +35,7 @@ Send me a video to get started.
 
 START_BTN = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton("Source Code", url="https://github.com/samadii/VidSubExtract-Bot"),
+        InlineKeyboardButton("Source Code", url="https://t.me/jettastic"),
         ]]
     )
 
