@@ -7,7 +7,7 @@ Note that the accuracy of recognition depends on the subtitle font and its visib
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samadii/VidSubExtract-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hoihoi07/VidSubExtract-Bot)
 
 
 ## Local Deploying
